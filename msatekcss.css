@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+}
+h1:hover{
+    color: red;
+    transition-duration: 0.5s;
+}
+#A{
+    background-color: rgb(251, 4, 4);
+}
+#A:hover{
+    background-color: rgb(225, 0, 172);
+    transition-duration: 0.5s;
+}
